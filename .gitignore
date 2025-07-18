@@ -4,10 +4,11 @@ __pycache__/
 build/
 dist/
 wheels/
+.idea/
+.vscode/
+
 *.egg-info
 
 # Virtual environments
 .venv
-
-/.env
-.env
+.env/
